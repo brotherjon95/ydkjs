@@ -197,9 +197,9 @@
 
 // default parameter
 
-function foo(a = 2) {
-  return a
-}
+// function foo(a = 2) {
+//   return a
+// }
 
-foo(); // returns 2
-foo(42); // returns 42
+// foo(); // returns 2
+// foo(42); // returns 42
